@@ -1,0 +1,20 @@
+# Ignore Python cache and system files
+__pycache__/
+*.pyc
+
+# Ignore environment and secrets
+.env
+.vscode/
+.DS_Store
+
+# Ignore vector database and large intermediates
+chroma_db/
+*.json
+*.xlsx
+
+# Ignore Streamlit state
+.streamlit/
+
+# Ignore virtual environments
+venv/
+.env/
