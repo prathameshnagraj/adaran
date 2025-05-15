@@ -70,7 +70,7 @@ Deployed with <strong>Streamlit</strong>, powered by <strong>LangChain</strong> 
 <h2>📁 Project Structure</h2>
 
 <pre>
-jsom-ai-chatbot/
+adaran/
 ├── app.py
 ├── qa_chain_mistral.py
 ├── load_retriever.py
@@ -92,7 +92,7 @@ jsom-ai-chatbot/
 
 <pre>
 # 1. Clone the repo
-git clone https://github.com/prathameshnagraj/jsom-ai-chatbot.git
+git clone https://github.com/prathameshnagraj/adaran.git
 cd jsom-ai-chatbot
 
 # 2. Install dependencies
