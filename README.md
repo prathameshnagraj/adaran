@@ -117,10 +117,4 @@ streamlit run app.py
 
 <hr>
 
-<h2>📄 License</h2>
-
-<p>This project is licensed under the <strong>MIT License</strong>.</p>
-
-<hr>
-
 <p align="center"><em>“Turning information overload into conversational clarity.”</em></p>
