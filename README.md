@@ -93,7 +93,7 @@ adaran/
 <pre>
 # 1. Clone the repo
 git clone https://github.com/prathameshnagraj/adaran.git
-cd jsom-ai-chatbot
+cd adaran
 
 # 2. Install dependencies
 pip install -r requirements.txt
